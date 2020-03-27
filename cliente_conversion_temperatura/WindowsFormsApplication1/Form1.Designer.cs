@@ -33,10 +33,10 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.unidad = new System.Windows.Forms.TextBox();
             this.Temperatura = new System.Windows.Forms.RadioButton();
             this.button3 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -103,9 +103,19 @@
             this.groupBox1.Text = "Peticion";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(355, 52);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 20);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Unidad";
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
+            // 
             // unidad
             // 
-            this.unidad.Location = new System.Drawing.Point(428, 49);
+            this.unidad.Location = new System.Drawing.Point(438, 49);
             this.unidad.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.unidad.Name = "unidad";
             this.unidad.Size = new System.Drawing.Size(40, 26);
@@ -136,16 +146,6 @@
             this.button3.Text = "desconectar";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(355, 52);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 20);
-            this.label1.TabIndex = 10;
-            this.label1.Text = "Unidad";
-            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // Form1
             // 

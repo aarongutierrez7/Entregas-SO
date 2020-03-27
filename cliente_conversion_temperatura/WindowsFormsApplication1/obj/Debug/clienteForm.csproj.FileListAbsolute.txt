@@ -96,3 +96,4 @@ C:\Users\Aarón Gutiérrez\Desktop\cliente_con_conexion_desconexion\WindowsForms
 C:\Users\Aarón Gutiérrez\Desktop\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Aarón Gutiérrez\Desktop\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Aarón Gutiérrez\Desktop\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\Aarón Gutiérrez\Desktop\ConvertirGrados\cliente_conversion_temperatura\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
